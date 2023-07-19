@@ -1,6 +1,6 @@
 package com.mycompany.mavenproject1;
 import javax.swing.JOptionPane;
-public class Mavenproject1 {
+public class Cinema {
 
     public static void main(String[] args) {
       int[][] cinema = new int[27][23];
